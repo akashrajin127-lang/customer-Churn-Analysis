@@ -16,3 +16,15 @@ Otherwise, customers are considered retained (Churn = 0). Dataset Structure Colu
 The project includes basic data analysis and visualization to understand patterns in the dataset:
 
 Checking missing values Summary statistics (mean, median, standard deviation) Churn distribution analysis Visual exploration using plots and charts Visualizations Count plots for churn distribution Gender vs churn comparison Age distribution histogram Balance vs churn boxplot Credit score vs balance scatter plot Correlation heatmap Churn percentage pie chart
+
+ output review :
+
+ <img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/e23ef696-0f87-4b80-ac94-2b44ac030580" />
+<img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/8ecaad4c-19cb-432d-b383-10ce99cb4e8a" />
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/8f4f9e75-dcd5-44ef-b7f0-8699de2b8463" />
+<img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/1d36d14d-284f-40ff-81ac-ec320f9b1bea" />
+<img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/e3fb4b78-7d78-4691-b7b0-c222a13b5ce6" />
+<img width="868" height="628" alt="image" src="https://github.com/user-attachments/assets/98685b39-e88c-406e-a0be-86c2a0189f25" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/ebc34bbf-715d-4c54-8e3c-dc759a263af1" />
+
+
